@@ -4,11 +4,11 @@
 </div>
   <h3 align="center">Markisak (Recipe App)</h3>
   <p align="center">
-    <a href="https://github.com/mhmdiamd/markisak-fe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alifankebima/markisak-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://markisak-fe.vercel.app/">View Demo</a>
     <br />
-    <a href="https://markisak-be-production-ddec.up.railway.app/v1">Api Demo</a>
+    <a href="https://tired-plum-sari.cyclic.app">Api Demo</a>
   </p>
 </p>
 
@@ -58,13 +58,13 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Front End Repo
 
 ```
-git clone https://github.com/mhmdiamd/markisak-fe
+git clone https://github.com/alifankebima/markisak-frontend
 ```
 
 - Go To Folder Repo
 
 ```
-cd markisak-fe
+cd markisak-frontend
 ```
 
 - Install Module
@@ -166,9 +166,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Markisak`](https://github.com/mhmdiamd/markisak-be)
+:rocket: [`Backend Markisak`](https://github.com/alifankebima/markisak-backend)
 
-:rocket: [`Frontend Markisak`](https://github.com/ikkair/markisak-fe)
+:rocket: [`Frontend Markisak`](https://github.com/alifankebima/markisak-frontend)
 
 :rocket: [`Demo Markisak`](https://markisak-fe.vercel.app/)
 
